@@ -1,0 +1,17 @@
+# Secure Code Analyzer - Python Dependencies
+
+# Web framework
+Flask>=2.3.0
+flask-cors>=4.0.0
+
+# HTTP requests
+requests>=2.31.0
+
+# HTML parsing
+beautifulsoup4>=4.12.0
+
+# For production deployment
+gunicorn>=21.0.0
+
+# Optional: For enhanced performance
+# uvicorn[standard]>=0.23.0
